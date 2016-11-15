@@ -1,0 +1,14 @@
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\bin\Debug\KoperasiProject.Repository.dll
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\bin\Debug\KoperasiProject.Repository.pdb
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\obj\Debug\KoperasiProject.Repository.csprojResolveAssemblyReference.cache
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\obj\Debug\KoperasiProject.Repository.dll
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\obj\Debug\KoperasiProject.Repository.pdb
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\bin\Debug\KoperasiProject.Repository.dll.config
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\bin\Debug\EntityFramework.dll
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\bin\Debug\KoperasiProject.Domain.dll
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\bin\Debug\KoperasiProject.EntityFramework.dll
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\bin\Debug\KoperasiProject.Domain.pdb
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\bin\Debug\KoperasiProject.EntityFramework.pdb
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\bin\Debug\EntityFramework.xml
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Repository\bin\Debug\EntityFramework.SqlServer.xml

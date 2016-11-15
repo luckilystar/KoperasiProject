@@ -1,0 +1,5 @@
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Domain\bin\Debug\KoperasiProject.Domain.dll
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Domain\bin\Debug\KoperasiProject.Domain.pdb
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Domain\obj\Debug\KoperasiProject.Domain.csprojResolveAssemblyReference.cache
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Domain\obj\Debug\KoperasiProject.Domain.dll
+D:\workspace-vistud2015\KoperasiProject\KoperasiProject.Domain\obj\Debug\KoperasiProject.Domain.pdb
