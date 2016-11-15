@@ -23,8 +23,6 @@ namespace KoperasiProject.Domain.Users
 
         public string PhoneNumber { get; set; }
         public DateTime Birthday { get; set; }
-=======
-    
->>>>>>> .merge_file_a09092
+
     }
 }
